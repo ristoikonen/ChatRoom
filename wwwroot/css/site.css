@@ -15,7 +15,7 @@ html, body {
 
 #messages {
     width: 100%;
-    border: 1px solid #ccc;
+    border: 1px solid #D7D8FE;
     height: calc(100% - 120px);
     float: none;
     margin: 0px auto;
@@ -28,12 +28,12 @@ textarea:focus {
 }
 
 .system-message {
-    background: #87CEFA;
+    background: #9DE1E0;
 }
 
 .broadcast-message {
     display: inline-block;
-    background: yellow;
+    background: #DDE9C3;
     margin: auto;
     padding: 5px 10px;
 }
